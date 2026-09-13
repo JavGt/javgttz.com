@@ -4,6 +4,7 @@ import { customElement, property } from "lit/decorators.js";
 import { repeat } from "lit/directives/repeat.js";
 
 import skillsData from "@/data/skills.json";
+import { baseResource } from "@/utils/baseResource";
 
 export type Skill = {
   _id: string;
@@ -110,7 +111,7 @@ export class SkillsGrid extends LitElement {
               <li class="item">
                 <img
                   class="icon"
-                  src=${skill.image}
+                  src=${baseResource(skill.image)}
                   alt=""
                   width="40"
                   height="40"

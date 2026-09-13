@@ -4,6 +4,7 @@ import { html, LitElement, unsafeCSS } from "lit";
 import { customElement } from "lit/decorators.js";
 import { utilityStyles } from "@/managers/utility-styles.manager";
 import styles from "./app-footer.scss?inline";
+import { baseResource } from "@/utils/baseResource";
 
 @customElement("app-footer")
 class AppFooter extends LitElement {
@@ -25,7 +26,7 @@ class AppFooter extends LitElement {
       href="${social.link}"
       class="footer__social"
     >
-      <img src="${social.icon}" alt="${social.name}" />
+      <img src="${baseResource(social.icon)}" alt="${social.name}" />
     </a>`;
   }
 
