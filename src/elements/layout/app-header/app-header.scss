@@ -1,0 +1,32 @@
+@use "@scss/helpers/variables" as v;
+
+.header {
+    &__container {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        height: clamp(6.4rem, 10vw, 10rem);
+    }
+
+    &__title {
+        font-size: clamp(1.8rem, 2.5vw, 2rem);
+        font-weight: 600;
+    }
+
+    &__alert {
+        font-size: clamp(1.4rem, 2.5vw, 1.6rem);
+        font-weight: 500;
+        position: relative;
+        color: #444;
+
+        &::before {
+            content: "";
+            position: absolute;
+            bottom: -10px;
+            width: 100%;
+            left: 0;
+            height: 0.1rem;
+            background-color: #444;
+        }
+    }
+}

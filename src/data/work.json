@@ -1,0 +1,62 @@
+[
+  {
+    "id": "bbva",
+    "period": "Agosto 2025 - Actual",
+    "role": "Software Expert",
+    "company": "BBVA",
+    "description": "Desarrollador front-end en tecnología cells y owner de un repositorio para gestionar un repositorio global.",
+    "icon": "lucide:briefcase-business",
+    "companyLogo": "/image/work/bbva.png",
+    "companyUrl": "https://www.linkedin.com/company/bbva-technology-en-america/posts/?feedView=all"
+  },
+  {
+    "id": "softtek",
+    "period": "Mayo 2025 - Septiembre 2025",
+    "role": "Software Expert",
+    "company": "softtek",
+    "description": "Desarrollador front-end en tecnología cells y owner de un repositorio para gestionar un repositorio global.",
+    "icon": "lucide:briefcase-business",
+    "companyLogo": "/image/work/softtek.png",
+    "companyUrl": "https://www.linkedin.com/company/softtek/posts/?feedView=all"
+  },
+  {
+    "id": "didacteca",
+    "period": "Nov. 2024 - May. 2025",
+    "role": "Arquitecto y líder Front-End",
+    "company": "Didacteca",
+    "description": "Cambio y gestión de arquitectura de librerías a monorepos para mejorar la experiencia de desarrollo.",
+    "icon": "lucide:boxes",
+    "companyLogo": "/image/work/didacteca.png",
+    "companyUrl": "https://www.linkedin.com/company/softtek/posts/?feedView=all"
+  },
+  {
+    "id": "branchbit",
+    "period": "Sept. 2024 - Dic. 2024",
+    "role": "Front-End Developer",
+    "company": "BranchBit",
+    "description": "Desarrollo para Banco Azteca en aperturas de cuentas y portabilidad de nómina; corrección de errores en React v16.",
+    "icon": "lucide:landmark",
+    "companyLogo": "/image/work/branchbit.png",
+    "companyUrl": ""
+  },
+  {
+    "id": "editorial",
+    "period": "Feb. 2022 - Sept. 2024",
+    "role": "Front-End",
+    "company": "Editorial K-tdra",
+    "description": "Migración de proyectos a Vite y Next.js, librerías reutilizables, GraphQL e interfaces interactivas.",
+    "icon": "lucide:code-xml",
+    "companyLogo": "/image/work/ktdra.png",
+    "companyUrl": "https://www.linkedin.com/company/ktdra/"
+  },
+  {
+    "id": "university",
+    "period": "2018 - 2022",
+    "role": "Ingeniería en Tecnologías de la Información",
+    "company": "Universidad Politécnica de Tlaxcala",
+    "description": "Formación profesional en tecnologías de la información.",
+    "icon": "lucide:graduation-cap",
+    "companyLogo": "/image/work/upt.png",
+    "companyUrl": "https://www.linkedin.com/school/uptx/"
+  }
+]

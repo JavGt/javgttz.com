@@ -1,0 +1,18 @@
+@use '@scss/helpers/variables' as v;
+
+html {
+	box-sizing: border-box;
+	font-size: 62.5%;
+	font-family: map-get(v.$fonts, 'primary');
+	background-color: map-get(v.$palette, 'background');
+}
+
+body {
+	min-height: 100vh;
+}
+
+*,
+*:before,
+*:after {
+	box-sizing: inherit;
+}

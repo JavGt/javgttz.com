@@ -1,0 +1,12 @@
+{
+	"project": [
+		{
+			"_id": "5b9b1b5b0f0a9c0014d0b1b1",
+			"name": "Project 1",
+			"description": "Project 1 description",
+			"created": "2018-09-10T13:00:00.000Z",
+			"image": "https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",
+			"technologies": ["Angular 5", "NodeJS", "MongoDB", "ReactJS"]
+		}
+	]
+}

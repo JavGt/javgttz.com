@@ -1,0 +1,118 @@
+{
+	"skills": [
+		{
+			"_id": "5b6b5b5b5b5b5b5b5b5b5b5b",
+			"name": "HTML5",
+			"image": "/image/skills/html.svg"
+		},
+		{
+			"_id": "5b6b5b5b5b5b5b5b5b5b5b5b",
+			"name": "CSS3",
+			"image": "/image/skills/css.svg"
+		},
+		{
+			"_id": "5b6b5b5b5b5b5b5b5b5b5b5b",
+			"name": "JavaScript",
+			"image": "/image/skills/javascript.svg"
+		},
+		{
+			"_id": "5b6b5b5b5b5b5b5b5b5b5b5b",
+			"name": "React",
+			"image": "/image/skills/react.svg"
+		},
+		{
+			"_id": "5b6b5b5b5b5b5b5b5b5b5b5b",
+			"name": "Redux",
+			"image": "/image/skills/redux.svg"
+		},
+		{
+			"_id": "5b6b5b5b5b5b5b5b5b5b5b5b",
+			"name": "NodeJS",
+			"image": "/image/skills/nodejs.svg"
+		},
+		{
+			"_id": "5b6b5b5b5b5b5b5b5b5b5b5b",
+			"name": "Apollo Client",
+			"image": "/image/skills/apolloclient.svg"
+		},
+		{
+			"_id": "5b6b5b5b5b5b5b5b5b5b5b5b",
+			"name": "expo",
+			"image": "/image/skills/expo.svg"
+		},
+		{
+			"_id": "5b6b5b5b5b5b5b5b5b5b5b5b",
+			"name": "GraphQL",
+			"image": "/image/skills/graphql.svg"
+		},
+		{
+			"_id": "5b6b5b5b5b5b5b5b5b5b5b5b",
+			"name": "MongoDB",
+			"image": "/image/skills/mongodb.svg"
+		},
+		{
+			"_id": "5b6b5b5b5b5b5b5b5b5b5b5b",
+			"name": "Git",
+			"image": "/image/skills/git.svg"
+		},
+		{
+			"_id": "5b6b5b5b5b5b5b5b5b5b5b5b",
+			"name": "GitHub",
+			"image": "/image/skills/github.svg"
+		},
+		{
+			"_id": "5b6b5b5b5b5b5b5b5b5b5b5b",
+			"name": "Gulp",
+			"image": "/image/skills/gulp.svg"
+		},
+		{
+			"_id": "5b6b5b5b5b5b5b5b5b5b5b5b",
+			"name": "Material UI",
+			"image": "/image/skills/materialui.svg"
+		},		{
+			"_id": "5b6b5b5b5b5b5b5b5b5b5b5b",
+			"name": "Lit",
+			"image": "/image/skills/lit.svg"
+		},
+		{
+			"_id": "5b6b5b5b5b5b5b5b5b5b5b5b",
+			"name": "MySQL",
+			"image": "/image/skills/mysql.svg"
+		},
+		{
+			"_id": "5b6b5b5b5b5b5b5b5b5b5b5b",
+			"name": "NPM",
+			"image": "/image/skills/npm.svg"
+		},
+		{
+			"_id": "5b6b5b5b5b5b5b5b5b5b5b5b",
+			"name": "PHP",
+			"image": "/image/skills/php.svg"
+		},
+		{
+			"_id": "5b6b5b5b5b5b5b5b5b5b5b5b",
+			"name": "Sass",
+			"image": "/image/skills/sass.svg"
+		},
+		{
+			"_id": "5b6b5b5b5b5b5b5b5b5b5b5b",
+			"name": "Tailwind CSS",
+			"image": "/image/skills/tailwindcss.svg"
+		},
+		{
+			"_id": "5b6b5b5b5b5b5b5b5b5b5b5b",
+			"name": "Vs Code",
+			"image": "/image/skills/visualstudiocode.svg"
+		},
+		{
+			"_id": "5b6b5b5b5b5b5b5b5b5b5b5b",
+			"name": "Vite JS",
+			"image": "/image/skills/vitejs.svg"
+		},
+		{
+			"_id": "5b6b5b5b5b5b5b5b5b5b5b5b",
+			"name": "Yarn",
+			"image": "/image/skills/yarn.svg"
+		}
+	]
+}

@@ -1,0 +1,63 @@
+@use "@scss/helpers/variables" as v;
+@use "@scss/helpers/mixins" as m;
+
+.footer {
+    padding: 8rem 3rem 6rem 3rem;
+
+    @include m.md {
+        padding: 14rem 0 10rem 0;
+    }
+
+    &__content {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-top: -10rem;
+        gap: 7rem;
+    }
+
+    &__text {
+        font-size: clamp(1.6rem, 3vw, 2rem);
+        text-align: center;
+        max-width: 50rem;
+    }
+
+    &__socials {
+        display: flex;
+        gap: 1rem;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    &__social {
+        padding: 1rem;
+        border-radius: 50%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border: 0.1rem solid #00000030;
+
+        @media (hover: hover) {
+            &:hover {
+                background: darken(map-get(v.$palette, "background"), 10%);
+            }
+        }
+
+        & img {
+            display: block;
+            object-fit: cover;
+            width: 2rem;
+            height: 2rem;
+
+            @include m.md {
+                width: 2.5rem;
+                height: 2.5rem;
+            }
+        }
+    }
+
+    &__copyright {
+        font-size: clamp(1.4rem, 3vw, 1.6rem);
+        color: #0000009a;
+    }
+}

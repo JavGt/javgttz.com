@@ -1,0 +1,31 @@
+@use 'variables' as v;
+
+@mixin sx {
+	@media (min-width: map-get(v.$breakpoints, 'telephone')) {
+		@content;
+	}
+}
+
+@mixin sm {
+	@media (min-width: map-get(v.$breakpoints, 'tablet-sm')) {
+		@content;
+	}
+}
+
+@mixin md {
+	@media (min-width: map-get(v.$breakpoints, 'tablet')) {
+		@content;
+	}
+}
+
+@mixin lg {
+	@media (min-width: map-get(v.$breakpoints, 'desktop')) {
+		@content;
+	}
+}
+
+@mixin xl {
+	@media (min-width: map-get(v.$breakpoints, 'desktop-lg')) {
+		@content;
+	}
+}

@@ -1,0 +1,46 @@
+{
+	"socials": [
+		{
+			"_id": "5b9b1b0b0f5a9c0014d1b1a1",
+			"name": "Facebook",
+			"icon": "/image/socials/facebook.svg",
+			"link": "https://www.facebook.com/JavGttz/"
+		},
+		{
+			"_id": "5b9b1b0b0f5a9c0014d1b1a2",
+			"name": "Twitter",
+			"icon": "/image/socials/twitter.svg",
+			"link": "https://twitter.com/JavGttz"
+		},
+		{
+			"_id": "5b9b1b0b0f5a9c0014d1b1a3",
+			"name": "Instagram",
+			"icon": "/image/socials/instagram.svg",
+			"link": "https://www.instagram.com/javgttz/"
+		},
+		{
+			"_id": "5b9b1b0b0f5a9c0014d1b1a4",
+			"name": "LinkedIn",
+			"icon": "/image/socials/linkedin.svg",
+			"link": "https://www.linkedin.com/in/francisco-javier-b%C3%A1ez-guti%C3%A9rrez-01091420b/?original_referer="
+		},
+		{
+			"_id": "5b9b1b0b0f5a9c0014d1b1a7",
+			"name": "Github",
+			"icon": "/image/socials/github.svg",
+			"link": "https://github.com/JavGt"
+		},
+		{
+			"_id": "5b9b1b0b0f5a9c0014d1b1a6",
+			"name": "Gmail",
+			"icon": "/image/socials/gmail.svg",
+			"link": "mailto:javier.bz.gt@gmail.com"
+		},
+		{
+			"_id": "5b9b1b0b0f5a9c0014d1b1a5",
+			"name": "WhatsApp",
+			"icon": "/image/socials/whatsapp.svg",
+			"link": "https://api.whatsapp.com/send?phone=2462383804"
+		}
+	]
+}
