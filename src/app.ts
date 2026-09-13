@@ -19,6 +19,7 @@ export class MyApp extends LitElement {
   }
 }
 
+export default MyApp;
 declare global {
   interface HTMLElementTagNameMap {
     "my-app": MyApp;
